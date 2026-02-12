@@ -19,7 +19,22 @@ export default function Hero() {
           Go to Devadh.com
         </Link> */}
         {/* <a href="/docs/doc.pdf" download>Download pdf</a> */}
+        {/* <Link href={"https://devadh.com"} target="_blank"  className="bg-purple-900 text-white px-4 py-2 rounded  hover:bg-purple-700 transition-colors">
+          Go to Devadh.com
+        </Link> */}
+        {/* <a href="/docs/doc_2.pdf" download>
+          Download pdf
+        </a> */}
+        <a
+          href="/docs/doc_2.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
+          View PDF
+        </a>
       </div>
+
     </div>
   );
 }
