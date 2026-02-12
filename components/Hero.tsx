@@ -25,14 +25,14 @@ export default function Hero() {
         {/* <a href="/docs/doc_2.pdf" download>
           Download pdf
         </a> */}
-        <a
+        {/* <a
           href="/docs/doc_2.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className=""
         >
           View PDF
-        </a>
+        </a> */}
       </div>
       {/* <div>
         <iframe
