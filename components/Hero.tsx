@@ -34,7 +34,14 @@ export default function Hero() {
           View PDF
         </a>
       </div>
-
+      {/* <div>
+        <iframe
+          src="/docs/doc_2.pdf"
+          width="100%"
+          height="600px"
+          className="rounded-lg border"
+        />
+      </div> */}
     </div>
   );
 }
